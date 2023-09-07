@@ -1,5 +1,5 @@
 {
-  "name": "vite-lib-poc",
+  "name": "@tinotjgithub/vite-lib-poc",
   "version": "1.0.0",
   "description": "its about creating a component library poc",
   "main": "index.js",
@@ -18,5 +18,8 @@
   },
   "peerDependencies": {
     "react": "^18.2.0"
+  },
+  "publishConfig": {
+    "@tinotjgithub:registry": "https://npm.pkg.github.com"
   }
 }
