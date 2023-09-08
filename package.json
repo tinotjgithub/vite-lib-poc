@@ -2,7 +2,7 @@
   "name": "@tinotjgithub/vite-lib-poc",
   "version": "1.0.0",
   "description": "its about creating a component library poc",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "npm test",
     "build": "vite build && tsc"
